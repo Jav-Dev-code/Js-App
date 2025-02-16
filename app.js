@@ -13,7 +13,13 @@ const pdfList = [
     { title: "Chapter 7 - Math expressions:Eliminating ambiguity", fileName: "chapter 7.pdf" },
     { title: "Chapter 8 - Concatenating text strings", fileName: "chapter 8.pdf" },
     { title: "Chapter 9 - Prompts", fileName: "chapter 9.pdf" },
-    { title: "Chapter 10 - if statements", fileName: "chapter 10.pdf" }
+    { title: "Chapter 10 - if statements", fileName: "chapter 10.pdf" },
+    { title: "Chapter 85 - Prompts", fileName: "chapter 85.pdf" },
+    { title: "Chapter 86 - Prompts", fileName: "chapter 86.pdf" },
+    { title: "Chapter 87 - Prompts", fileName: "chapter 87.pdf" },
+    { title: "Chapter 88 - Prompts", fileName: "chapter 88.pdf" },
+    { title: "Chapter 89 - Prompts", fileName: "chapter 89.pdf" },
+    { title: "Understanding RegExp", fileName: "Understanding RegExp.pdf" }
 ];
 
 // Function to display PDFs (with optional search filter)
